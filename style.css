@@ -1,0 +1,21 @@
+body {
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+.menu {
+    margin: 30px;
+}
+.mainBox {
+    font-size: larger;
+}
+.cat {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    border: 10px solid rgb(250, 221, 250);
+    border-radius: 20px;
+}
+.eat :visited {
+  color: black;
+}
